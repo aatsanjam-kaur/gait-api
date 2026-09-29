@@ -1,9 +1,11 @@
+tensorflow==2.20.0
 fastapi
 uvicorn
 python-multipart
+pydantic>=2
+pillow
 numpy
-pandas
-opencv-python-headless
-joblib
-mediapipe
-scikit-learn
+httpx
+requests
+pyngrok
+nest-asyncio
